@@ -1,0 +1,15 @@
+Index: testapp/src/main/java/com/nestapi/codelab/demo/Constants.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- testapp/src/main/java/com/nestapi/codelab/demo/Constants.java	(date 1420757806000)
++++ testapp/src/main/java/com/nestapi/codelab/demo/Constants.java	(revision )
+@@ -15,6 +15,7 @@
+     public static final String CLIENT_ID = "<insert-your-client-id-here>";
+     public static final String CLIENT_SECRET = "<insert-your-client-secret-here>";
+     public static final String REDIRECT_URL = "<insert-your-redirect-url-here>";
++    public static final String TEST URL = "<insert-your-redirect-url-here>";
+ 
+     //Arun pathania for testing pourpose commite---
+ }
